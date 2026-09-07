@@ -70,3 +70,4 @@ Here is the DAG execution graph of the Delta Live Tables pipeline running in Dat
 
 ## 👤 Author
 * **Omar El-Soudy** - [GitHub Profile](https://github.com/omarel-soudy)
+ 
