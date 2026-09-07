@@ -1,3 +1,5 @@
+<img width="1122" height="743" alt="Capture" src="https://github.com/user-attachments/assets/9d83c47f-297d-4690-8a7c-9b8da19ae07f" />
+<img width="1122" height="743" alt="Capture" src="https://github.com/user-attachments/assets/3c473e22-ffe2-49f8-9057-851e38cef1e2" />
 # 🛒 Instacart Medallion ETL Pipeline with Delta Live Tables (DLT)
 
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
@@ -16,7 +18,8 @@ This project implements an end-to-end Data Engineering pipeline for the **Instac
 Here is the DAG execution graph of the Delta Live Tables pipeline running in Databricks:
 
 <!-- 📸 حط مسار أو رابط الصورة بتاعتك هنا بدل المسار الافتراضي -->
-![Delta Live Tables Pipeline DAG](docs/Capture.PNG)
+![Delta Live Tables Pipeline DAG](docs/Captur<img width="1122" height="743" alt="Capture" src="https://github.com/user-attachments/assets/77c1d4b7-4005-42e9-8af2-dcff68bf4f7d" />
+.PNG)
 
 ---
 
